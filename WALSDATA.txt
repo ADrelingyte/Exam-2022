@@ -1,0 +1,2310 @@
+code	MWL	value
+aar	3.872	short
+aba	3.743	short
+abb	4.376	moderately short
+abd	3.5	very short
+abe	4.367	moderately short
+abi	4.145	moderately short
+abk	3.962	short
+abm	4.795	moderately long
+abn	4.839	moderately long
+abo	4.5	moderately short
+abu	2.857	extremely short
+abv	4.355	moderately short
+abw	5.282	long
+abz	3.833	short
+ace	4.403	moderately short
+acg	4.847	moderately long
+ach	4.039	moderately short
+aci	3.569	short
+acl	3.544	short
+acm	4.225	moderately short
+acn	3.628	short
+aco	5.206	long
+acu	4.179	moderately short
+adg	4.006	moderately short
+adi	3.554	short
+adk	3.929	short
+adn	4.58	moderately long
+adt	3.85	short
+adz	4.613	moderately long
+aea	4.897	moderately long
+aeg	4.425	moderately short
+ael	4.439	moderately short
+afr	3.362	very short
+aga	4	short
+agb	3.178	very short
+agc	4.833	moderately long
+agd	5.338	long
+agh	2.814	extremely short
+agl	3.5	very short
+agm	3.543	short
+ago	3.513	short
+agr	4.05	moderately short
+agt	3.983	short
+agu	3.163	very short
+agw	4.679	moderately long
+aho	5.694	very long
+ahs	5.204	long
+aht	3.362	very short
+ahu	3.794	short
+aik	3.949	short
+ain	4.044	moderately short
+aiz	3.214	very short
+aja	4.136	moderately short
+ajg	3.421	very short
+aji	3.603	short
+aka	3.429	very short
+akb	4.903	moderately long
+akh	3.381	very short
+akl	5.059	long
+akn	4.101	moderately short
+ako	4.339	moderately short
+akr	4.917	moderately long
+akw	4.128	moderately short
+ala	4.686	moderately long
+alb	3.571	short
+ald	3.345	very short
+alg	4.875	moderately long
+alk	3.923	short
+all	4.145	moderately short
+aln	4.586	moderately long
+als	5.333	long
+alt	3.706	short
+alu	6.688	extremely long
+alw	5.037	long
+alx	4.333	moderately short
+aly	4.962	moderately long
+ama	4.517	moderately long
+amb	3.556	short
+amc	4.527	moderately long
+amd	3.263	very short
+ame	3.329	very short
+amh	4.046	moderately short
+ami	5.294	long
+amk	4.846	moderately long
+aml	3.833	short
+amm	4.048	moderately short
+amn	4.179	moderately short
+amo	3	extremely short
+amp	5.096	long
+amq	4.353	moderately short
+amr	4.175	moderately short
+ams	4.454	moderately short
+amu	4.575	moderately long
+amx	5.868	very long
+amz	3	extremely short
+ana	3.974	short
+anc	3.074	very short
+ane	3.25	very short
+ang	4.774	moderately long
+ani	3.054	very short
+anj	4.912	moderately long
+ann	6.593	extremely long
+ano	3.562	short
+ant	3.923	short
+anu	4.092	moderately short
+anx	4.425	moderately short
+any	3.461	very short
+ao	3.554	short
+aoj	4.912	moderately long
+apa	4.274	moderately short
+apc	2.914	extremely short
+ape	5.282	long
+api	3.108	very short
+apj	3.243	very short
+apk	4.859	moderately long
+apl	4.385	moderately short
+apt	3.318	very short
+apu	4.705	moderately long
+apw	3.057	very short
+ara	4.816	moderately long
+arb	5.566	very long
+arc	3.575	short
+ard	4.986	moderately long
+arg	4.25	moderately short
+arh	4.422	moderately short
+ari	5.149	long
+ark	3.912	short
+arl	4.356	moderately short
+arm	4.031	moderately short
+aro	4.059	moderately short
+arp	4.353	moderately short
+arq	4.4	moderately short
+ars	4.625	moderately long
+arw	3.938	short
+arx	4.714	moderately long
+aso	3.741	short
+ass	3.541	short
+ast	4.654	moderately long
+asu	4	short
+ata	5.271	long
+atb	4.503	moderately long
+atc	3.432	very short
+ath	4.139	moderately short
+ati	4.689	moderately long
+atk	2.925	extremely short
+atm	4.368	moderately short
+ats	4.564	moderately long
+atu	4.05	moderately short
+au	3.833	short
+aul	4	short
+auy	5.447	long
+ava	3.665	short
+avk	3.808	short
+avo	3.38	very short
+avt	4.871	moderately long
+awa	4.41	moderately short
+awd	3.784	short
+awe	5.295	long
+awi	4.274	moderately short
+awk	3.385	very short
+awn	3.625	short
+awp	3.684	short
+awt	4.432	moderately short
+awy	4.424	moderately short
+axv	4.392	moderately short
+ayi	3.8	short
+aym	4.504	moderately long
+ayn	4.121	moderately short
+ayr	4.8	moderately long
+ayw	4.2	moderately short
+aze	3.719	short
+azi	3.357	very short
+baa	3.861	short
+bab	2.694	extremely short
+bac	5.023	long
+bad	4.571	moderately long
+bae	4.925	moderately long
+baf	2.706	extremely short
+bag	4.026	moderately short
+bah	5.362	long
+bai	2.802	extremely short
+baj	4.635	moderately long
+bak	3.658	short
+bal	4.288	moderately short
+bam	3.761	short
+ban	4.296	moderately short
+bao	4	short
+baq	4.574	moderately long
+bar	5.025	long
+bas	2.514	extremely short
+bat	4.829	moderately long
+bau	4.149	moderately short
+baw	3.342	very short
+bbf	3.844	short
+bbl	3.598	short
+bbm	4.3	moderately short
+bbu	3.537	short
+bbw	6.054	extremely long
+bca	5.471	long
+bch	4.412	moderately short
+bco	3.987	short
+bdc	3.868	short
+bdg	4.275	moderately short
+bdk	3.962	short
+bdm	4.621	moderately long
+bdu	3.319	very short
+bdw	5.143	long
+beb	5.447	long
+bee	3.651	short
+beg	4.324	moderately short
+bej	3.819	short
+bem	3.471	very short
+ben	3.906	short
+beo	6.15	extremely long
+ber	4.462	moderately short
+bet	3.671	short
+bez	3.35	very short
+bfd	3.91	short
+bfi	2.667	extremely short
+bga	4.112	moderately short
+bgg	4.31	moderately short
+bgi	3.657	short
+bgl	3.534	short
+bgm	4.061	moderately short
+bgo	4.184	moderately short
+bgr	3.324	very short
+bgs	3.256	very short
+bgv	3.795	short
+bgz	4.172	moderately short
+bhn	4.237	moderately short
+bho	3.516	short
+bia	3.456	very short
+bid	4.026	moderately short
+big	3.75	short
+bii	4.776	moderately long
+bik	3.465	very short
+bil	4.365	moderately short
+bim	3.897	short
+bin	4.132	moderately short
+bio	4.504	moderately long
+biq	4.444	moderately short
+bir	3.376	very short
+bis	2.567	extremely short
+bit	4.614	moderately long
+biu	3.95	short
+bjs	4.29	moderately short
+bka	4.162	moderately short
+bkb	4.694	moderately long
+bkd	5.117	long
+bki	4.615	moderately long
+bkl	4.983	moderately long
+bkn	3.583	short
+bkr	4.176	moderately short
+bkt	3.444	very short
+bku	3.026	very short
+bla	5.842	very long
+blc	3.6	short
+ble	3.231	very short
+blg	4.403	moderately short
+blj	4.449	moderately short
+bln	4.094	moderately short
+blq	4.027	moderately short
+blr	4.294	moderately short
+blt	3.629	short
+blu	3.338	very short
+blx	3.842	short
+blz	3.689	short
+bma	4.135	moderately short
+bmb	3.205	very short
+bmn	3.11	very short
+bmr	4.304	moderately short
+bmz	4.375	moderately short
+bna	4.241	moderately short
+bnb	5.588	very long
+bnd	4.072	moderately short
+bng	5.689	very long
+bni	3.306	very short
+bnk	2.789	extremely short
+bnl	4.786	moderately long
+bnm	4.508	moderately long
+bnn	4.303	moderately short
+bno	4.434	moderately short
+bnq	2.921	extremely short
+bnr	5.524	very long
+bnt	4.375	moderately short
+bnw	4.296	moderately short
+boa	4.318	moderately short
+bob	3.422	very short
+bod	4	short
+boi	3.866	short
+boj	3.641	short
+bok	2.731	extremely short
+bol	3.23	very short
+bon	3.729	short
+bor	4.987	moderately long
+bos	4.15	moderately short
+bou	4.362	moderately short
+boz	3.408	very short
+bpa	4.044	moderately short
+bpb	3.308	very short
+bqb	4.469	moderately short
+bra	3.618	short
+brb	3.6	short
+brc	4.289	moderately short
+brd	5.289	long
+bre	4.062	moderately short
+brf	4.375	moderately short
+brh	3.875	short
+bri	3.556	short
+brj	3.956	short
+brk	4.564	moderately long
+brl	3.237	very short
+brm	3.15	very short
+brn	5.153	long
+bro	3.339	very short
+brp	3.564	short
+brr	4.179	moderately short
+brs	4.162	moderately short
+bru	3.975	short
+brw	3.559	short
+bry	4.894	moderately long
+brz	3.242	very short
+bse	3.712	short
+bsh	3.04	very short
+bsi	4.713	moderately long
+bsk	3.981	short
+bsm	3.458	very short
+bsr	3.562	short
+btk	4.461	moderately short
+bto	4.735	moderately long
+bua	5.632	very long
+bub	3.569	short
+bud	4.162	moderately short
+bug	4.145	moderately short
+bui	3.773	short
+buj	3.327	very short
+buk	3.837	short
+bul	4.154	moderately short
+bum	3.758	short
+bun	3.628	short
+bur	3.617	short
+bus	2.556	extremely short
+but	4.3	moderately short
+buu	4.25	moderately short
+buw	2.872	extremely short
+buy	4.156	moderately short
+bvi	4.446	moderately short
+bwc	4.107	moderately short
+bya	3.431	very short
+bys	3.97	short
+bzi	3.454	very short
+cab	4.026	moderately short
+cac	3.362	very short
+cad	5.075	long
+cah	4.378	moderately short
+cai	4.119	moderately short
+cak	3.562	short
+cam	5.588	very long
+can	4.889	moderately long
+cap	3.91	short
+car	4.628	moderately long
+cas	3.849	short
+cat	4.143	moderately short
+cav	4.325	moderately short
+cax	6.757	extremely long
+cay	4	short
+cba	4.286	moderately short
+cbo	4.514	moderately long
+cch	3.868	short
+cck	5.256	long
+ccm	2.604	extremely short
+ccp	3.931	short
+cct	4.737	moderately long
+cde	4.059	moderately short
+ceb	4.471	moderately short
+cec	4.323	moderately short
+cem	3.423	very short
+cga	3.684	short
+cha	5.3	long
+chb	5.42	long
+chc	3.492	very short
+chd	3.527	short
+che	5.949	very long
+chg	3.492	very short
+chh	3.904	short
+chi	4.591	moderately long
+chj	3.467	very short
+chk	6.463	extremely long
+chl	4.526	moderately long
+chm	3.724	short
+chn	3.408	very short
+cho	3.962	short
+chp	2.971	extremely short
+chr	3.209	very short
+chs	2.671	extremely short
+chu	4.4	moderately short
+chv	3.831	short
+chw	4	short
+chx	4.257	moderately short
+chy	5.141	long
+chz	3.157	very short
+cic	4	short
+cin	3.974	short
+cjo	4.436	moderately short
+ckh	4.735	moderately long
+ckl	4.615	moderately long
+cla	5.612	very long
+cld	4.525	moderately long
+cle	3.264	very short
+cln	3.439	very short
+cly	3.48	very short
+cma	5.064	long
+cmc	3.921	short
+cme	4.258	moderately short
+cmh	4.39	moderately short
+cml	4.086	moderately short
+cmn	4.541	moderately long
+cmr	3.554	short
+cmx	4.906	moderately long
+cmy	3.736	short
+cnl	3.474	very short
+cnm	4.806	moderately long
+cnt	2.758	extremely short
+coc	4.579	moderately long
+coe	5.9	very long
+cof	4.671	moderately long
+cog	5.037	long
+coi	3.669	short
+col	3.819	short
+com	3.325	very short
+coo	4.486	moderately short
+cop	3.608	short
+cor	3.676	short
+cpa	4.208	moderately short
+cpl	2.829	extremely short
+cpn	3.211	very short
+cpw	6.364	extremely long
+cpy	3.85	short
+cqt	3.821	short
+cre	6.103	extremely long
+crg	4.105	moderately short
+crh	3.955	short
+cri	3.628	short
+crj	5.237	long
+crk	5.026	long
+crl	3.284	very short
+crn	4.088	moderately short
+cro	4.038	moderately short
+crp	4.105	moderately short
+crq	3.388	very short
+crt	4.95	moderately long
+csc	2.847	extremely short
+csf	3.635	short
+csh	3.897	short
+csk	4.673	moderately long
+cso	3.905	short
+ctc	4.032	moderately short
+cte	2.875	extremely short
+cti	2.8	extremely short
+ctl	3.811	short
+ctm	3.5	very short
+ctt	3.79	short
+ctw	3.806	short
+cua	3.553	short
+cub	4.904	moderately long
+cui	5.287	long
+cul	4.7	moderately long
+cum	4.108	moderately short
+cup	3.412	very short
+cur	4.675	moderately long
+cuu	3.074	very short
+cvc	4.15	moderately short
+cwe	6.064	extremely long
+cyg	4.463	moderately short
+cyn	5.564	very long
+cyv	4.462	moderately short
+cze	4.2	moderately short
+daa	4.079	moderately short
+dab	4.429	moderately short
+dad	4.189	moderately short
+dag	4.775	moderately long
+dah	4.388	moderately short
+dak	4.312	moderately short
+dam	4.859	moderately long
+dan	2.138	extremely short
+dar	3.941	short
+dat	5.419	long
+daw	3.161	very short
+day	2.974	extremely short
+dbd	3.929	short
+dbr	3.625	short
+dca	4.697	moderately long
+dda	5.658	very long
+ddf	4.316	moderately short
+ddj	3.743	short
+dds	3.709	short
+def	3.433	very short
+deg	3.864	short
+den	4.784	moderately long
+der	5.271	long
+des	4.414	moderately short
+det	3.054	very short
+deu	3.45	very short
+dga	3.467	very short
+dgb	3.517	short
+dgi	3.333	very short
+dgo	3.8	short
+dgr	3.681	short
+dha	3.795	short
+dhb	4.232	moderately short
+dhi	3.274	very short
+dhm	3.562	short
+dhr	4.81	moderately long
+dhu	5.397	long
+dhw	5.581	very long
+did	4.526	moderately long
+die	4.194	moderately short
+dig	3.545	short
+dim	3.769	short
+din	3.333	very short
+dio	4.411	moderately short
+diy	4.469	moderately short
+diz	3.638	short
+dja	5.103	long
+dji	6.474	extremely long
+djm	4.652	moderately long
+djn	5.25	long
+djp	4.938	moderately long
+djr	4.562	moderately long
+dma	3.771	short
+dmi	3.392	very short
+dmk	3.36	very short
+dms	4	short
+dng	3.006	very short
+dni	4.203	moderately short
+dnw	3.5	very short
+dob	3.842	short
+dok	3.472	very short
+dol	3.615	short
+dom	3.719	short
+don	2.597	extremely short
+dou	3.788	short
+doy	3.911	short
+dre	4.515	moderately long
+drg	3.714	short
+dri	4.15	moderately short
+drm	3.053	very short
+dsh	3.913	short
+dts	3.6	short
+dua	3.264	very short
+dug	4.344	moderately short
+duk	2.952	extremely short
+dul	2.5	extremely short
+dum	2.931	extremely short
+dun	3.889	short
+duz	3.675	short
+dyi	5.125	long
+dym	3.967	short
+dyu	3.555	short
+ebi	3.56	short
+edo	4.056	moderately short
+efi	3.487	very short
+ega	3.703	short
+egn	3.306	very short
+eip	4.529	moderately long
+eja	2.811	extremely short
+eka	3.895	short
+eko	3.7	short
+els	4.113	moderately short
+emb	4.628	moderately long
+emc	3.694	short
+eme	3.519	short
+eml	4.162	moderately short
+emm	5.379	long
+ena	4.513	moderately long
+ene	3.816	short
+eng	3.381	very short
+eno	4.312	moderately short
+eny	3.449	very short
+epe	3.857	short
+erk	3.871	short
+err	3.515	short
+ese	4.151	moderately short
+ess	4.261	moderately short
+est	3.817	short
+ets	3.176	very short
+eud	4.125	moderately short
+eve	4.407	moderately short
+evn	4.331	moderately short
+ewe	3.172	very short
+ewo	3.147	very short
+eya	4.013	moderately short
+far	4.125	moderately short
+fas	4.52	moderately long
+fbf	4.821	moderately long
+fea	3.586	short
+fef	2.716	extremely short
+fgo	4.592	moderately long
+fgu	4.583	moderately long
+fij	4.974	moderately long
+fin	4.356	moderately short
+fio	4.138	moderately short
+fiw	3.867	short
+fma	4.641	moderately long
+fni	4.533	moderately long
+fno	3.6	short
+foe	4.158	moderately short
+fon	3.099	very short
+for	6.09	extremely long
+fox	6.324	extremely long
+fqs	4.24	moderately short
+frd	4.149	moderately short
+fre	3.025	very short
+frw	3.85	short
+fue	4.23	moderately short
+ful	4.2	moderately short
+fum	4.812	moderately long
+fur	3.671	short
+fut	4.132	moderately short
+fuz	4.184	moderately short
+fye	3.632	short
+ga	3.15	very short
+gaa	5.743	very long
+gad	3.025	very short
+gae	3.7	short
+gag	4.227	moderately short
+gah	5.474	long
+gam	4.276	moderately short
+gan	3.936	short
+gap	4.844	moderately long
+gar	3.969	short
+gau	3.413	very short
+gav	3.452	very short
+gay	4.015	moderately short
+gbb	3.228	very short
+gbc	3.667	short
+gbk	3.198	very short
+gbl	4.025	moderately short
+gcy	4.938	moderately long
+gdb	3.838	short
+gdf	4.765	moderately long
+gdk	4.033	moderately short
+gdl	3.447	very short
+gdr	3.828	short
+gds	5.039	long
+gel	4.118	moderately short
+geo	4.575	moderately long
+gfr	3.722	short
+ggu	4.194	moderately short
+ghb	5.575	very long
+gho	2.37	extremely short
+ghr	3.325	very short
+gil	4	short
+gim	3.212	very short
+gir	2.776	extremely short
+giz	4.014	moderately short
+gji	5.722	very long
+gjj	4.289	moderately short
+gku	4.775	moderately long
+gla	3.577	short
+glc	4.308	moderately short
+gll	3.98	short
+gln	3.766	short
+glp	5.016	long
+gmb	4.026	moderately short
+gml	4.342	moderately short
+gmt	5.088	long
+gmw	4.812	moderately long
+gmz	3.966	short
+gnb	5.765	very long
+gnd	4.786	moderately long
+gnn	4.679	moderately long
+gno	4.408	moderately short
+gny	4.548	moderately long
+goa	4.912	moderately long
+god	4.211	moderately short
+goe	3.657	short
+gog	4.153	moderately short
+goj	3.12	very short
+gok	2.763	extremely short
+gol	3.421	very short
+gon	4.126	moderately short
+goo	5.081	long
+grb	3.107	very short
+gre	5.775	very long
+grf	4.714	moderately long
+grg	5.458	long
+grj	4.777	moderately long
+grk	4.5	moderately short
+grm	4.036	moderately short
+grn	4.333	moderately short
+gro	2.962	extremely short
+grp	3.697	short
+grr	5.588	very long
+grs	3.471	very short
+grt	5.03	long
+gto	3.158	very short
+gua	4.192	moderately short
+gud	4.057	moderately short
+gue	2.881	extremely short
+guf	5.352	long
+gug	4.571	moderately long
+guh	4.043	moderately short
+guj	3.825	short
+gul	4.03	moderately short
+gum	5.175	long
+gun	3.61	short
+gur	3.679	short
+gus	3.689	short
+guu	4.788	moderately long
+gwa	4.087	moderately short
+gwo	3.697	short
+gyb	4.244	moderately short
+gyc	3.962	short
+had	4.213	moderately short
+hai	4.244	moderately short
+hak	3.227	very short
+hal	5.635	very long
+ham	4.362	moderately short
+han	2.91	extremely short
+har	4.773	moderately long
+hat	3.744	short
+hau	4.199	moderately short
+hav	3.992	short
+haw	3.896	short
+hay	3.532	short
+hba	4.075	moderately short
+hcr	2.936	extremely short
+hdi	4.312	moderately short
+heh	4.062	moderately short
+hei	4.487	moderately short
+hem	3.868	short
+her	3.138	very short
+hhu	3.967	short
+hid	4.405	moderately short
+hil	4.581	moderately long
+hin	3.781	short
+hix	4.564	moderately long
+hlb	3.557	short
+hli	5.162	long
+hma	3.375	very short
+hmb	4.213	moderately short
+hmd	2.404	extremely short
+hmi	4.594	moderately long
+hmo	2.357	extremely short
+hmr	3.862	short
+hmu	4.506	moderately long
+hna	3.903	short
+hnd	3.413	very short
+hnk	3.5	very short
+hnn	4.706	moderately long
+hno	4.154	moderately short
+ho	3.862	short
+hoa	4.422	moderately short
+hok	3.375	very short
+hol	3.493	very short
+hop	3.9	short
+hpd	3.514	short
+hrr	3.694	short
+hrs	4.641	moderately long
+hsl	4.308	moderately short
+htc	4.175	moderately short
+hua	4.5	moderately short
+huc	3.364	very short
+hui	4.385	moderately short
+hum	4.431	moderately short
+hun	3.346	very short
+hup	3.612	short
+hve	4.269	moderately short
+hwc	3.236	very short
+hwr	4.276	moderately short
+hya	3.613	short
+hzb	3.362	very short
+iaa	3.044	very short
+iat	3.635	short
+iau	2.514	extremely short
+iba	4.279	moderately short
+ibi	3.575	short
+ibn	4.618	moderately long
+ice	4.419	moderately short
+idn	4.936	moderately long
+ido	3.929	short
+ifi	4.771	moderately long
+ifm	3.65	short
+ifu	4.729	moderately long
+iga	4.312	moderately short
+igb	3.902	short
+ige	3.759	short
+ign	5.013	long
+igs	4	short
+iha	4.515	moderately long
+ijo	3.763	short
+ik	4.019	moderately short
+ika	4.211	moderately short
+ila	3.316	very short
+ill	7.256	extremely long
+ilo	4.382	moderately short
+imo	3.409	very short
+ina	4.206	moderately short
+ind	4.719	moderately long
+ing	3.436	very short
+inj	4.718	moderately long
+inn	5.385	long
+inr	5.308	long
+ins	5.542	very long
+inu	5.092	long
+iqu	4.797	moderately long
+ird	3.6	short
+iri	3.663	short
+irq	4.219	moderately short
+irr	4.308	moderately short
+irx	5.106	long
+isa	3.436	very short
+ise	3.722	short
+isi	4.167	moderately short
+isn	4.713	moderately long
+iso	2.308	extremely short
+itb	3.975	short
+ite	5.037	long
+itg	4.133	moderately short
+itn	4.713	moderately long
+ito	5.192	long
+itu	3.684	short
+itw	4.485	moderately short
+itz	3.625	short
+iva	5.361	long
+ivs	4.784	moderately long
+iwa	5.5	long
+iwm	3.535	short
+ixc	3.743	short
+ixi	3.158	very short
+izh	4.197	moderately short
+izi	3.6	short
+jab	3.697	short
+jad	3.188	very short
+jah	4.282	moderately short
+jak	3.419	very short
+jam	5.385	long
+jaq	4.446	moderately short
+jar	3.484	very short
+jav	4.474	moderately short
+jbt	3.65	short
+jcr	3.269	very short
+jeb	5.179	long
+jeh	3.625	short
+jem	2.95	extremely short
+jib	4.138	moderately short
+jin	3.231	very short
+jiv	4.425	moderately short
+jlu	3.329	very short
+jmo	4.184	moderately short
+jms	3.917	short
+jng	3.619	short
+jom	4.5	moderately short
+jpn	4.053	moderately short
+jpr	3.591	short
+jrn	3.744	short
+jrw	3.985	short
+jug	3.635	short
+juh	4.197	moderately short
+juk	3.297	very short
+jun	4.05	moderately short
+jur	4.487	moderately short
+jva	4.066	moderately short
+jwr	4.286	moderately short
+kaa	3.786	short
+kab	3.763	short
+kac	3.903	short
+kad	4.438	moderately short
+kae	4.197	moderately short
+kag	4.401	moderately short
+kai	4.365	moderately short
+kaj	4.593	moderately long
+kak	4.514	moderately long
+kal	3.143	very short
+kam	3.82	short
+kan	2.955	extremely short
+kap	4.811	moderately long
+kar	4.088	moderately short
+kas	3.812	short
+kat	4.077	moderately short
+kau	3.561	short
+kaw	4.125	moderately short
+kay	5.629	very long
+kaz	3.794	short
+kba	3.465	very short
+kbl	4.506	moderately long
+kbo	4.523	moderately long
+kbu	4.005	moderately short
+kbw	2.938	extremely short
+kby	3.848	short
+kch	4.069	moderately short
+kdw	5.795	very long
+kdz	4.718	moderately long
+kea	3.4	very short
+ked	3.726	short
+kef	3.9	short
+kei	3.574	short
+kek	3.532	short
+kel	4.177	moderately short
+kem	3.894	short
+ken	3.808	short
+keo	3.557	short
+ker	3.914	short
+ket	3.394	very short
+kew	3.642	short
+kfe	4.487	moderately short
+kfy	3.744	short
+kga	4.083	moderately short
+kgi	3.4	very short
+kgl	3.986	short
+kgm	3.045	very short
+kgr	3.819	short
+kgu	4.79	moderately long
+kgy	3.212	very short
+kha	3.519	short
+khd	3.086	very short
+khg	3.237	very short
+khi	3.423	very short
+khk	3.517	short
+khl	3.456	very short
+khm	4.038	moderately short
+khn	3.212	very short
+kho	3.873	short
+khr	4.387	moderately short
+khs	3.888	short
+khv	3.425	very short
+khw	3.388	very short
+kic	4.7	moderately long
+kie	3.699	short
+kij	5.703	very long
+kik	3.45	very short
+kil	3.494	very short
+kim	4.711	moderately long
+kin	3.67	short
+kio	2.812	extremely short
+kiq	4.088	moderately short
+kir	4.724	moderately long
+kis	4.034	moderately short
+kit	5.843	very long
+kiu	4.09	moderately short
+kiw	4.343	moderately short
+kje	5.219	long
+kji	3.919	short
+kjn	3.6	short
+kjo	4.41	moderately short
+kjr	4.056	moderately short
+kkb	4.694	moderately long
+kkn	3.446	very short
+kko	3.325	very short
+kkp	4.051	moderately short
+kkq	5.297	long
+kkr	3.388	very short
+kkt	4.576	moderately long
+kku	3.919	short
+kkv	4.103	moderately short
+kkw	4.42	moderately short
+kky	4.452	moderately short
+kla	2.865	extremely short
+klb	3.615	short
+klg	3.143	very short
+klh	3.152	very short
+kli	4.1	moderately short
+klk	2.97	extremely short
+kll	3.354	very short
+klm	3.744	short
+kln	5.101	long
+klp	3.917	short
+klq	3.621	short
+klr	3.086	very short
+kls	5.581	very long
+klt	4.588	moderately long
+klv	4.985	moderately long
+klw	4.039	moderately short
+kly	4.257	moderately short
+klz	3.474	very short
+kma	4.342	moderately short
+kmb	3.953	short
+kmh	2.838	extremely short
+kmi	3.859	short
+kmj	5.444	long
+kmn	4.667	moderately long
+kmo	3.829	short
+kmp	4.75	moderately long
+kmr	4.043	moderately short
+kms	3.525	short
+kmt	4.161	moderately short
+kmu	3.788	short
+kmw	5.071	long
+kmz	4.064	moderately short
+kna	4.392	moderately short
+knb	4.233	moderately short
+knc	4.763	moderately long
+knd	4.729	moderately long
+kng	3.553	short
+kni	3.962	short
+knk	4.221	moderately short
+knm	3.395	very short
+knn	3.486	very short
+knp	4.312	moderately short
+knq	3.944	short
+knr	4.144	moderately short
+knu	4.735	moderately long
+knw	4.467	moderately short
+koa	5.141	long
+kob	3.729	short
+kod	4.638	moderately long
+koe	3.8	short
+koh	3.758	short
+koi	4.069	moderately short
+kok	3.517	short
+kol	4.138	moderately short
+kom	3.592	short
+kop	3.385	very short
+kor	3.45	very short
+kos	3.23	very short
+kot	4.611	moderately long
+kou	2.928	extremely short
+kow	3.526	short
+koy	4.556	moderately long
+kpa	3.029	very short
+kpe	3.355	very short
+kpm	4.618	moderately long
+kpn	4.25	moderately short
+kpo	3.372	very short
+kpw	3.057	very short
+kqq	4.083	moderately short
+kra	4.118	moderately short
+krb	4.284	moderately short
+krc	3.459	very short
+krd	3.708	short
+kre	4.118	moderately short
+krf	4.449	moderately short
+krg	3.543	short
+krh	4.516	moderately long
+kri	3.353	very short
+krk	4.025	moderately short
+krl	4.244	moderately short
+krm	3.406	very short
+krn	3.581	short
+kro	4.115	moderately short
+krr	4.309	moderately short
+krt	4.206	moderately short
+krw	3.986	short
+kry	6.775	extremely long
+krz	3.75	short
+ksa	5.386	long
+kse	3.962	short
+ksg	2.625	extremely short
+ksh	3.958	short
+ksi	3.833	short
+ksm	4.036	moderately short
+ksp	3.061	very short
+ksr	4.029	moderately short
+kss	4.217	moderately short
+ksu	4.1	moderately short
+kta	3.905	short
+kte	2.897	extremely short
+kth	3.4	very short
+kti	3.788	short
+ktk	4.2	moderately short
+ktl	4.103	moderately short
+ktn	4.25	moderately short
+kto	3.273	very short
+ktp	4.662	moderately long
+ktu	3.647	short
+kty	3.756	short
+ktz	3.229	very short
+kug	2.844	extremely short
+kui	4.397	moderately short
+kul	4.506	moderately long
+kum	3.5	very short
+kun	4.649	moderately long
+kuo	5.308	long
+kuq	3.763	short
+kur	4.088	moderately short
+kus	3.353	very short
+kut	5.125	long
+kuu	5.162	long
+kuv	4.507	moderately long
+kuz	5.167	long
+kwa	4.091	moderately short
+kwb	4.982	moderately long
+kwe	3.333	very short
+kwk	4.295	moderately short
+kwm	3.894	short
+kwn	3.919	short
+kwo	4.013	moderately short
+kwr	4.329	moderately short
+kws	3.725	short
+kwt	3.655	short
+kwy	3.688	short
+kxo	3.333	very short
+kya	4.692	moderately long
+kyg	2.852	extremely short
+kyk	4.908	moderately long
+kyl	2.897	extremely short
+kym	3.638	short
+kyn	4.684	moderately long
+kyo	2.801	extremely short
+kyp	3.143	very short
+kyq	4.75	moderately long
+kyr	5.605	very long
+kyt	5.537	very long
+kyz	3.694	short
+kzh	2.854	extremely short
+kzy	3.319	very short
+laa	3.431	very short
+lab	4.378	moderately short
+lac	3.236	very short
+lad	3.031	very short
+laf	4.205	moderately short
+lag	3.515	short
+lah	3	extremely short
+lai	3.117	very short
+lak	3.929	short
+lal	3.694	short
+lam	3.85	short
+lan	3.6	short
+lao	2.987	extremely short
+lar	5.903	very long
+lat	4.544	moderately long
+lau	3.639	short
+lav	4.297	moderately short
+laz	4.385	moderately short
+lbu	3.673	short
+lch	1.926	extremely short
+lcr	3.346	very short
+lda	3.969	short
+ldn	3.858	short
+ldo	3.057	very short
+ldu	2.703	extremely short
+leb	3.555	short
+lec	3.913	short
+leg	3.533	short
+lel	4.027	moderately short
+len	3.986	short
+lep	3.297	very short
+les	3.526	short
+let	3.721	short
+lew	4.143	moderately short
+lez	3.435	very short
+lga	3.679	short
+lge	3.425	very short
+lgi	3.869	short
+lgt	3.33	very short
+lgu	3.882	short
+lha	3.021	very short
+lho	3.765	short
+lic	3.179	very short
+lil	5.525	very long
+lim	3.962	short
+lin	3.564	short
+lis	3.205	very short
+lit	5.319	long
+liv	4.1	moderately short
+lje	4.231	moderately short
+lkk	3.154	very short
+lkt	3.969	short
+lla	4.257	moderately short
+llm	4.15	moderately short
+lma	3.575	short
+lmb	3.872	short
+lmg	4.125	moderately short
+lmh	4.2	moderately short
+lml	5.788	very long
+lmn	3.908	short
+lmp	4.308	moderately short
+lmu	4.054	moderately short
+lnd	3.562	short
+lng	5.244	long
+lno	5.05	long
+lns	3.047	very short
+lnw	4.132	moderately short
+lob	3.769	short
+lok	3.964	short
+lon	4	short
+lot	3.408	very short
+lou	3.758	short
+lov	3.425	very short
+loz	3.456	very short
+lrk	4.395	moderately short
+lu	3.013	very short
+lua	3.13	very short
+luc	3.669	short
+lud	4.412	moderately short
+lug	3.171	very short
+lui	4.487	moderately short
+lum	5.624	very long
+luo	3.7	short
+lur	3.639	short
+lus	4.829	moderately long
+luv	3.793	short
+lux	4.051	moderately short
+lye	3.351	very short
+ma	4.1	moderately short
+maa	5.487	long
+mab	4.184	moderately short
+mac	4.756	moderately long
+mad	2.994	extremely short
+mae	3.7	short
+mag	3.388	very short
+mah	3.862	short
+mai	3.792	short
+maj	4	short
+mak	5.787	very long
+mal	5.005	long
+man	2.71	extremely short
+mao	4.194	moderately short
+map	4.093	moderately short
+mar	3.95	short
+mas	4.871	moderately long
+mau	5.075	long
+maw	3.586	short
+max	4.797	moderately long
+may	3.364	very short
+maz	3.948	short
+mba	3.281	very short
+mbe	3.356	very short
+mbg	4.513	moderately long
+mbi	2.906	extremely short
+mbl	3.636	short
+mbm	3.528	short
+mbo	3.803	short
+mbr	4.188	moderately short
+mbt	4.919	moderately long
+mbu	3.045	very short
+mby	3.214	very short
+mca	4.697	moderately long
+mcd	3.981	short
+mce	3.167	very short
+mcf	5.167	long
+mcg	4.641	moderately long
+mch	6.338	extremely long
+mcn	4.154	moderately short
+mco	3.486	very short
+mcr	3.788	short
+mcs	4.5	moderately short
+mcv	5.068	long
+mda	4.423	moderately short
+mde	3.742	short
+mdg	3.167	very short
+mdk	3.6	short
+mdl	5.121	long
+mdm	5.479	long
+mdn	3.564	short
+mdo	3.288	very short
+mdr	4.371	moderately short
+mds	4.324	moderately short
+mdu	3.562	short
+mdw	3.276	very short
+mdz	3.504	short
+mea	4.269	moderately short
+meb	4.231	moderately short
+mee	3.718	short
+meh	4.694	moderately long
+mei	3.243	very short
+mek	4.172	moderately short
+mel	4.588	moderately long
+mem	3.983	short
+men	5.113	long
+mer	3.653	short
+mey	4.744	moderately long
+mga	3.794	short
+mgd	4.618	moderately long
+mge	3.228	very short
+mgg	3.759	short
+mgi	4.042	moderately short
+mgk	3.111	very short
+mgl	4.577	moderately long
+mgn	4.25	moderately short
+mgo	3.241	very short
+mgq	3.282	very short
+mgu	4.612	moderately long
+mhc	4.35	moderately short
+mhi	3.987	short
+mhk	3.868	short
+mhl	3.345	very short
+mhm	4.059	moderately short
+mhu	3.114	very short
+mic	5.833	very long
+mid	3.842	short
+mie	3.105	very short
+mig	4.295	moderately short
+mii	3.417	very short
+mij	2.85	extremely short
+mik	3.565	short
+min	4.382	moderately short
+mir	6.406	extremely long
+mis	3.806	short
+mit	3	extremely short
+miy	4.081	moderately short
+miz	3.475	very short
+mjc	4.342	moderately short
+mjk	3.75	short
+mka	2.916	extremely short
+mkb	4.169	moderately short
+mkd	4.097	moderately short
+mke	3.594	short
+mki	4.474	moderately short
+mkj	4.266	moderately short
+mkl	3.727	short
+mkn	3.494	very short
+mko	4.688	moderately long
+mkq	3.486	very short
+mkr	4.443	moderately short
+mks	4.737	moderately long
+mku	5.207	long
+mkz	3.486	very short
+mla	2.931	extremely short
+mlc	4.077	moderately short
+mle	4.105	moderately short
+mlg	4.893	moderately long
+mli	5.91	very long
+mlk	4.931	moderately long
+mll	4.365	moderately short
+mlm	2.935	extremely short
+mlt	4.487	moderately short
+mlu	4.846	moderately long
+mma	4.287	moderately short
+mmb	4.013	moderately short
+mme	3.754	short
+mmi	4	short
+mmn	4.778	moderately long
+mmo	4.013	moderately short
+mmp	4.233	moderately short
+mms	4.489	moderately short
+mmv	3.5	very short
+mmw	4.013	moderately short
+mna	4.301	moderately short
+mnc	4.379	moderately short
+mne	3.729	short
+mng	3.629	short
+mni	3.267	very short
+mnj	5.586	very long
+mnk	3.444	very short
+mnm	3.765	short
+mno	4.697	moderately long
+mnr	4.078	moderately short
+mns	4.088	moderately short
+mnt	4.536	moderately long
+mnu	2.942	extremely short
+mnv	5.081	long
+mnx	3.769	short
+mny	4.429	moderately short
+mnz	3.033	very short
+moa	4.117	moderately short
+moc	3.962	short
+moe	4.062	moderately short
+mof	4.921	moderately long
+mog	4	short
+moh	4.412	moderately short
+moj	4.59	moderately long
+mok	3.986	short
+mom	4.296	moderately short
+mon	3.727	short
+moo	4.369	moderately short
+mop	4.047	moderately short
+mor	4.182	moderately short
+mos	4.113	moderately short
+mot	4.103	moderately short
+mou	3.4	very short
+mov	5.224	long
+mpa	5.014	long
+mpo	4.18	moderately short
+mpt	3.654	short
+mpu	3.308	very short
+mpy	4.788	moderately long
+mqf	4	short
+mra	6.076	extremely long
+mrc	3.41	very short
+mrd	3.765	short
+mrg	3.838	short
+mrh	5.393	long
+mri	4.106	moderately short
+mrk	4.771	moderately long
+mrl	3.897	short
+mrn	4.382	moderately short
+mro	4.256	moderately short
+mrq	3.72	short
+mrr	4.931	moderately long
+mrs	5.361	long
+mrt	5.622	very long
+mru	2.53	extremely short
+mrw	4.529	moderately long
+msc	4.25	moderately short
+mse	5.833	very long
+msh	3.426	very short
+msk	4.256	moderately short
+msl	4.321	moderately short
+msm	4.679	moderately long
+msn	3.859	short
+mss	4.269	moderately short
+msy	3.486	very short
+mta	4.686	moderately long
+mtb	3.865	short
+mtg	5.487	long
+mth	3.431	very short
+mti	4.25	moderately short
+mtk	3.75	short
+mtl	3.829	short
+mto	3.345	very short
+mtp	2.974	extremely short
+mts	4.263	moderately short
+mtt	5.551	very long
+mtu	4.118	moderately short
+mua	4.526	moderately long
+mud	2.444	extremely short
+mug	3.853	short
+mui	4.968	moderately long
+mul	3.083	very short
+mum	3.103	very short
+mun	3.788	short
+muo	2.765	extremely short
+mup	3.557	short
+mur	4.25	moderately short
+mus	4.59	moderately long
+mut	4.058	moderately short
+muu	4.243	moderately short
+muy	4.562	moderately long
+mwb	5	moderately long
+mwe	3.756	short
+mwl	3.962	short
+mwn	4.888	moderately long
+mwo	3.111	very short
+mwp	4.218	moderately short
+mxa	3.5	very short
+mxc	3.872	short
+mxe	4.118	moderately short
+mxj	3.397	very short
+mxo	4.069	moderately short
+mxp	3.485	very short
+mxs	3.429	very short
+mxu	3.655	short
+mxy	3.811	short
+mya	4.096	moderately short
+myg	3.578	short
+myi	4.946	moderately long
+mym	4.967	moderately long
+myn	4.947	moderately long
+myo	4.404	moderately short
+myr	4.875	moderately long
+mzc	4.287	moderately short
+mzh	3.722	short
+mzn	3.631	short
+nab	3.875	short
+nad	3.312	very short
+naf	3.975	short
+nag	4.5	moderately short
+nah	4.338	moderately short
+nai	4.512	moderately long
+naj	4.223	moderately short
+nak	4.84	moderately long
+nal	4.339	moderately short
+nam	3.487	very short
+nap	4.304	moderately short
+nar	3.447	very short
+nas	4.014	moderately short
+nat	4.77	moderately long
+nau	3.485	very short
+nav	3.55	short
+nax	2.656	extremely short
+nbb	3.878	short
+nbd	3.192	very short
+nbe	3.917	short
+nbh	3.475	very short
+nbk	4.102	moderately short
+nbm	3	extremely short
+nbo	3.778	short
+nbr	3.913	short
+nca	4.282	moderately short
+ncm	4.95	moderately long
+ndb	4.172	moderately short
+nde	3.811	short
+ndg	2.517	extremely short
+ndi	2.917	extremely short
+ndj	5.819	very long
+ndo	3.361	very short
+ndt	3.158	very short
+ndu	3.363	very short
+ndy	3.575	short
+neg	3.987	short
+neh	4.316	moderately short
+nel	3.409	very short
+nen	3.925	short
+nep	3.861	short
+nev	4.281	moderately short
+new	3.528	short
+ney	3.267	very short
+nez	4.842	moderately long
+nga	4.513	moderately long
+ngb	3.337	very short
+ngd	3.571	short
+ngi	5.129	long
+ngj	4.968	moderately long
+ngk	5.172	long
+ngl	4.605	moderately long
+ngm	3.138	very short
+ngn	5.257	long
+ngo	4.104	moderately short
+ngr	4.348	moderately short
+ngt	3.606	short
+ngu	4.257	moderately short
+ngw	4.766	moderately long
+ngz	4.291	moderately short
+nhc	4.613	moderately long
+nhh	4.468	moderately short
+nhm	4.55	moderately long
+nhn	4.419	moderately short
+nht	4.842	moderately long
+nhx	4.552	moderately long
+nia	3.872	short
+nif	3.985	short
+nim	3.62	short
+nin	4.25	moderately short
+nis	3.69	short
+nit	5.447	long
+niu	3.984	short
+niv	3.537	short
+nju	4.438	moderately short
+nkb	4.5	moderately short
+nke	2.976	extremely short
+nkk	6.483	extremely long
+nkn	3.3	very short
+nko	3.562	short
+nkr	4.3	moderately short
+nkt	3.987	short
+nku	3.273	very short
+nlu	4.779	moderately long
+nma	3.417	very short
+nmb	5.564	very long
+nmd	4.194	moderately short
+nmi	4.355	moderately short
+nmm	2.77	extremely short
+nnc	4.013	moderately short
+nnd	4.353	moderately short
+nne	3.985	short
+nng	3.314	very short
+nnk	3.922	short
+nnm	3.763	short
+nnn	3.471	very short
+nnt	6.393	extremely long
+nob	3.515	short
+noc	3.263	very short
+nog	3.718	short
+nom	5.872	very long
+non	2.824	extremely short
+noo	3.279	very short
+npa	4.183	moderately short
+npi	3.308	very short
+nrg	2.656	extremely short
+nrm	4.514	moderately long
+nro	3.862	short
+nse	3.812	short
+nsg	3.833	short
+nsk	5.833	very long
+nsn	3.176	very short
+nsy	4.457	moderately short
+nsz	4.05	moderately short
+nti	3.345	very short
+ntj	5.575	very long
+ntn	4.013	moderately short
+nto	3.222	very short
+nua	5.222	long
+nub	4.564	moderately long
+nue	3.308	very short
+nug	5.309	long
+nuk	4.09	moderately short
+nun	2.697	extremely short
+nup	3.49	very short
+nus	3.149	very short
+nya	4.705	moderately long
+nyg	3.281	very short
+nyh	3.704	short
+nyi	4.284	moderately short
+nyk	3.473	very short
+nym	3.533	short
+nyn	5.343	long
+nyr	5.143	long
+nyu	4.769	moderately long
+nza	3.921	short
+nze	4.156	moderately short
+obg	3.809	short
+obk	4.923	moderately long
+obo	3.368	very short
+oca	4.737	moderately long
+occ	3.952	short
+ocu	4.425	moderately short
+oi	3.595	short
+oix	3.75	short
+oji	5.038	long
+ojs	5.276	long
+oka	5.138	long
+oko	3.908	short
+oks	4.397	moderately short
+oku	2.978	extremely short
+olm	4.918	moderately long
+olo	4.315	moderately short
+olu	4.026	moderately short
+oma	3.828	short
+omh	3.8	short
+omi	3.797	short
+ond	4.7	moderately long
+one	4.054	moderately short
+ong	4.435	moderately short
+onn	4.575	moderately long
+ono	4	short
+ora	3.053	very short
+orb	4.502	moderately long
+orc	4.225	moderately short
+ord	3.212	very short
+ore	4.097	moderately short
+orh	4.281	moderately short
+ori	4.86	moderately long
+ork	4.531	moderately long
+orl	4.248	moderately short
+orm	3.771	short
+oro	4.226	moderately short
+orw	4.638	moderately long
+ory	4.228	moderately short
+osa	3.525	short
+osm	3.372	very short
+oss	3.908	short
+otm	3.079	very short
+oto	3.923	short
+otr	4.05	moderately short
+ots	3.172	very short
+owc	4.231	moderately short
+owi	4.251	moderately short
+oya	4.167	moderately short
+paa	4.408	moderately short
+pac	3.632	short
+pad	4.237	moderately short
+pae	3.378	very short
+pag	4.729	moderately long
+pai	5.223	long
+pal	3.629	short
+pam	3.84	short
+pan	4.037	moderately short
+pap	4.412	moderately short
+par	3.444	very short
+pat	3.575	short
+pau	5.429	long
+paw	3.66	short
+pba	4.211	moderately short
+pcm	3.567	short
+pdp	4.04	moderately short
+pec	4.062	moderately short
+pem	4.592	moderately long
+pen	4.047	moderately short
+per	4.197	moderately short
+pga	4.618	moderately long
+pgl	3.368	very short
+pia	5.214	long
+pil	3.986	short
+pin	5.716	very long
+pip	3.778	short
+pis	3.591	short
+pit	5.039	long
+pkm	3.85	short
+pkn	4.779	moderately long
+pkt	4.275	moderately short
+pla	5.986	very long
+plb	4.091	moderately short
+plg	2.996	extremely short
+plh	4.54	moderately long
+plk	4.235	moderately short
+plr	3.333	very short
+pmc	2.694	extremely short
+pme	3.016	very short
+pmn	2.809	extremely short
+pms	4.181	moderately short
+pna	3.727	short
+png	4.338	moderately short
+pnn	4.591	moderately long
+pno	4.319	moderately short
+pnr	4.358	moderately short
+pnu	2.944	extremely short
+pnx	3.742	short
+pny	5.757	very long
+pod	4.447	moderately short
+pog	4.051	moderately short
+poh	3.515	short
+pok	3.744	short
+pol	4.419	moderately short
+pop	3.559	short
+por	4.075	moderately short
+pot	4.539	moderately long
+pow	7.931	extremely long
+ppc	4.775	moderately long
+ppi	5.088	long
+pra	3.412	very short
+prc	5.421	long
+prd	3.726	short
+pre	3.624	short
+prh	4.647	moderately long
+pri	3.924	short
+prk	3.775	short
+prs	4.088	moderately short
+prt	4.351	moderately short
+psh	3.727	short
+psj	3.73	short
+psm	6.062	extremely long
+pso	2.536	extremely short
+psv	3.818	short
+psw	4.361	moderately short
+pta	2.619	extremely short
+ptp	4.25	moderately short
+ptt	3.212	very short
+pui	3.125	very short
+puk	3.576	short
+pul	3.414	very short
+pum	2.676	extremely short
+pur	5.634	very long
+pwn	5.494	long
+qaf	4.4	moderately short
+qan	4.333	moderately short
+qaw	5.25	long
+qay	4.331	moderately short
+qbo	4.248	moderately short
+qca	4.284	moderately short
+qch	3.756	short
+qcu	4.23	moderately short
+qec	4.36	moderately short
+qia	3.214	very short
+qim	4.321	moderately short
+qta	4.394	moderately short
+que	4.115	moderately short
+qui	5.026	long
+qum	3.189	very short
+rad	3.5	very short
+rag	3.842	short
+ram	4.603	moderately long
+rao	4.338	moderately short
+rap	4.205	moderately short
+rav	3.898	short
+raw	3.25	very short
+rbg	3.75	short
+rej	4.471	moderately short
+rem	4.328	moderately short
+ren	3.917	short
+res	4.987	moderately long
+ret	5	moderately long
+rga	4.028	moderately short
+rgn	4.25	moderately short
+ria	4.227	moderately short
+rik	4.661	moderately long
+rim	3.704	short
+rit	4.946	moderately long
+rji	3.6	short
+rka	3.922	short
+rmb	5.094	long
+rmc	4.004	moderately short
+rnd	3.545	short
+rng	3.194	very short
+rnn	4.143	moderately short
+rnr	4.054	moderately short
+rny	3.681	short
+rom	4.158	moderately short
+ron	3.647	short
+ror	3.894	short
+rot	3.756	short
+rov	4.47	moderately short
+rru	3.897	short
+rsh	3.449	very short
+rsm	3.975	short
+rti	3.409	very short
+rtk	5.472	long
+ruk	5.286	long
+rum	3.581	short
+run	4.105	moderately short
+rus	4.231	moderately short
+rut	3.885	short
+rwa	3.597	short
+rwe	4.077	moderately short
+ryu	3.513	short
+saa	4.178	moderately short
+sab	3.943	short
+sae	2.829	extremely short
+sah	5.41	long
+sak	3	extremely short
+sal	4.614	moderately long
+sam	4.325	moderately short
+san	3.16	very short
+sao	3.974	short
+sap	3.6	short
+sar	4.842	moderately long
+sav	3.429	very short
+saw	3.591	short
+say	3.388	very short
+sba	4.621	moderately long
+sbg	4.425	moderately short
+scr	4.075	moderately short
+scs	5.562	very long
+sdh	3.537	short
+sdw	3.797	short
+sea	4.014	moderately short
+seb	5.3	long
+sec	4.844	moderately long
+sed	3.27	very short
+see	4.935	moderately long
+sel	4.276	moderately short
+sem	3.97	short
+sen	3.831	short
+ser	3.297	very short
+ses	3.544	short
+sey	3.875	short
+sgb	4.797	moderately long
+sge	3.525	short
+sgl	3.083	very short
+sgr	4.431	moderately short
+sgu	3.905	short
+sha	3.122	very short
+shb	3.77	short
+shd	3.73	short
+she	2.966	extremely short
+shh	3.971	short
+shi	4.549	moderately long
+shk	4.654	moderately long
+shl	3.356	very short
+shm	3.545	short
+sho	5.053	long
+shr	3.855	short
+shs	5.25	long
+sht	3.811	short
+shu	5.675	very long
+shw	6.5	extremely long
+shy	4.12	moderately short
+sia	4.727	moderately long
+sid	4.112	moderately short
+sik	3.844	short
+sil	4.444	moderately short
+sim	4.372	moderately short
+sin	4.789	moderately long
+sio	3.971	short
+sir	4.591	moderately long
+sis	4.776	moderately long
+siu	4	short
+ski	4.188	moderately short
+skk	3.611	short
+skl	4.517	moderately long
+skm	3.577	short
+sko	2.5	extremely short
+skp	3.925	short
+skr	4.265	moderately short
+sku	4.2	moderately short
+skw	3.871	short
+sla	3.457	very short
+slb	4.652	moderately long
+sle	3.474	very short
+slg	3.405	very short
+slo	4.119	moderately short
+slp	3.667	short
+slr	3.656	short
+slv	3.867	short
+sly	4.514	moderately long
+smd	4.446	moderately short
+sme	2.844	extremely short
+smj	3.763	short
+sml	4	short
+smt	4.713	moderately long
+sna	3.637	short
+snc	4.1	moderately short
+snd	5.118	long
+sng	4.235	moderately short
+snh	4.138	moderately short
+snm	4.244	moderately short
+snn	4.684	moderately long
+sno	5.119	long
+snt	3.279	very short
+so	3	extremely short
+sob	4.574	moderately long
+sod	4.182	moderately short
+sol	3.906	short
+som	3.994	short
+son	4.029	moderately short
+soq	4.219	moderately short
+sor	4.36	moderately short
+sou	4.112	moderately short
+spa	4.556	moderately long
+spo	4.875	moderately long
+sps	4.975	moderately long
+squ	4.312	moderately short
+sra	3.882	short
+src	3.143	very short
+srd	4.487	moderately short
+sre	3.342	very short
+sri	4.513	moderately long
+srl	4.175	moderately short
+srm	3.806	short
+srn	3.571	short
+sro	3.824	short
+srr	3.846	short
+sru	3.375	very short
+sry	5.167	long
+ssa	3.84	short
+ssh	3.975	short
+sta	4.135	moderately short
+sti	3.282	very short
+stl	3.876	short
+stn	3.189	very short
+sub	3.861	short
+sud	4.716	moderately long
+sue	3.737	short
+sug	3.519	short
+sui	2.833	extremely short
+suk	4.261	moderately short
+sul	3.826	short
+sum	3.472	very short
+sun	4.868	moderately long
+sup	4.173	moderately short
+sur	4.5	moderately short
+sus	4.089	moderately short
+sva	3.795	short
+svk	4.075	moderately short
+svs	4.167	moderately short
+swa	3.487	very short
+swe	3.504	short
+swi	4.157	moderately short
+swt	3.639	short
+syg	3.55	short
+syu	3.25	very short
+tab	3.867	short
+tac	4.153	moderately short
+taf	3.824	short
+tag	4.681	moderately long
+tah	4.394	moderately short
+tai	4.469	moderately short
+taj	4.1	moderately short
+tak	3.403	very short
+tal	3.974	short
+tam	2.962	extremely short
+tan	3.682	short
+tao	3.743	short
+tap	4.236	moderately short
+tar	5.181	long
+tas	4.125	moderately short
+tat	4.452	moderately short
+tau	3.986	short
+taw	4.5	moderately short
+taz	3.5	very short
+tba	4.14	moderately short
+tbb	4.05	moderately short
+tbe	4.35	moderately short
+tbl	4.298	moderately short
+tbo	4.649	moderately long
+tbr	4.917	moderately long
+tbs	3.319	very short
+tbt	3.969	short
+tbu	3.692	short
+tbw	3.514	short
+tbx	3.179	very short
+tce	4.225	moderately short
+tda	3.862	short
+tec	3.525	short
+tee	5.075	long
+teh	4.794	moderately long
+tel	5.122	long
+tem	4.5	moderately short
+ten	4	short
+teo	4	short
+tep	5.737	very long
+ter	4.167	moderately short
+tes	5.4	long
+tet	3.326	very short
+tew	3.2	very short
+tex	3.406	very short
+tga	3.706	short
+tgb	4.776	moderately long
+tgk	3.941	short
+tgl	2.538	extremely short
+tgn	3.758	short
+tgo	3.342	very short
+tgp	5.312	long
+tgw	3.868	short
+tha	3.214	very short
+thd	3.194	very short
+thk	2.763	extremely short
+thn	3.949	short
+tho	5.138	long
+tht	3.714	short
+thu	3.474	very short
+thw	4.324	moderately short
+thy	3.816	short
+tia	4.85	moderately long
+tib	3.163	very short
+tic	4.576	moderately long
+tid	4.013	moderately short
+tif	4.371	moderately short
+tig	4.517	moderately long
+tik	3.202	very short
+til	5.446	long
+tim	4.632	moderately long
+tin	3.871	short
+tir	4.486	moderately short
+tiv	3.163	very short
+tiw	6.829	extremely long
+tke	3.722	short
+tki	3.419	very short
+tkl	3.419	very short
+tkm	3.974	short
+tks	3.98	short
+tla	4.482	moderately short
+tld	4.617	moderately long
+tlf	4.25	moderately short
+tli	3.603	short
+tll	4.632	moderately long
+tlo	4.593	moderately long
+tlp	3.872	short
+tmc	3.9	short
+tmg	4.438	moderately short
+tmi	3.675	short
+tmk	3.139	very short
+tml	4.629	moderately long
+tmm	4.189	moderately short
+tmn	5.075	long
+tmo	2.923	extremely short
+tmr	4.053	moderately short
+tna	4.295	moderately short
+tnc	3.769	short
+tnd	4.051	moderately short
+tne	3.115	very short
+tng	4.281	moderately short
+tni	3.257	very short
+tnj	4.072	moderately short
+tnk	4.103	moderately short
+tnl	4.372	moderately short
+tnn	2.712	extremely short
+tno	3.919	short
+tns	4.411	moderately short
+tnt	3.906	short
+tny	3.8	short
+toa	4.252	moderately short
+tob	5.976	very long
+tod	3.615	short
+tof	3.5	very short
+toj	3.859	short
+tok	3.571	short
+tol	3.744	short
+ton	5.578	very long
+toq	3.515	short
+tor	4.122	moderately short
+tos	5.112	long
+tot	5.105	long
+tou	3.493	very short
+tow	4.162	moderately short
+toz	3.757	short
+tpa	5.154	long
+tpc	3.679	short
+tpi	3.654	short
+tpn	4.194	moderately short
+tpr	3.321	very short
+tps	3.966	short
+tpt	4.562	moderately long
+trb	3.629	short
+trc	3.778	short
+trd	4.257	moderately short
+tri	3.219	very short
+trn	4.375	moderately short
+trr	5.053	long
+trt	3.75	short
+tru	3.839	short
+trw	2.8	extremely short
+try	5.115	long
+tsa	3.808	short
+tse	3.526	short
+tsf	3.974	short
+tsg	5.153	long
+tsh	5.48	long
+tsi	3.788	short
+tsj	2.944	extremely short
+tsk	4.756	moderately long
+tsn	4.608	moderately long
+tso	4.029	moderately short
+tsr	4.765	moderately long
+tst	3.132	very short
+tsw	3.513	short
+tsz	3.695	short
+ttd	4.241	moderately short
+tte	4.593	moderately long
+tts	3.671	short
+ttu	3.5	very short
+tty	4.064	moderately short
+tua	4.323	moderately short
+tub	4.871	moderately long
+tuc	4.66	moderately long
+tuk	3.913	short
+tul	5.179	long
+tum	4.63	moderately long
+tun	4.225	moderately short
+tur	4.088	moderately short
+tus	4.312	moderately short
+tuv	3.525	short
+tuy	4.821	moderately long
+tvt	3.575	short
+twa	5.718	very long
+twn	2.775	extremely short
+tws	2.875	extremely short
+txj	5.125	long
+tye	5.069	long
+tza	3.667	short
+tze	3.868	short
+tzu	3.837	short
+uby	3.688	short
+udh	3.725	short
+udi	3.658	short
+udm	3.538	short
+uhi	4.158	moderately short
+ukr	4.463	moderately short
+uku	4.578	moderately long
+ulc	4.062	moderately short
+uld	4.743	moderately long
+uli	3.946	short
+uma	4.321	moderately short
+umb	3.907	short
+una	3.883	short
+ung	4.733	moderately long
+unm	5.833	very long
+ura	5	moderately long
+urd	3.526	short
+urh	3.619	short
+uri	3.676	short
+urk	4.056	moderately short
+url	4.486	moderately short
+urn	5.148	long
+urt	4.419	moderately short
+uru	4.325	moderately short
+usa	3.931	short
+usr	2.786	extremely short
+ute	4.725	moderately long
+uyg	4.297	moderately short
+uzb	3.7	short
+vaf	3.583	short
+vag	3.433	very short
+vai	3.083	very short
+vas	3.75	short
+vat	3.555	short
+ved	5.281	long
+ven	3.5	very short
+vep	3.837	short
+vie	2.971	extremely short
+vif	3.706	short
+vnm	4.029	moderately short
+vot	3.273	very short
+wag	5.577	very long
+wah	3.797	short
+wai	4.346	moderately short
+wak	3.826	short
+wal	4.487	moderately short
+wam	6.378	extremely long
+wan	5.068	long
+wao	4.632	moderately long
+wap	4.075	moderately short
+war	4.556	moderately long
+was	4.5	moderately short
+wat	5.771	very long
+wau	3.284	very short
+way	4.197	moderately short
+wbn	3.829	short
+wch	4.494	moderately short
+wec	4.075	moderately short
+wed	4.833	moderately long
+wer	4.842	moderately long
+wet	4.121	moderately short
+wgg	4.688	moderately long
+wgl	3.038	very short
+wgu	5.014	long
+wic	4.944	moderately long
+wik	4.867	moderately long
+win	2.688	extremely short
+wir	4.757	moderately long
+wiy	5.091	long
+wkw	4.042	moderately short
+wlf	3.832	short
+wll	4.444	moderately short
+wlm	5.028	long
+wlo	3.939	short
+wlw	5.467	long
+wly	4.465	moderately short
+wma	3.764	short
+wme	3.638	short
+wmu	4.461	moderately short
+wn	4.513	moderately long
+wna	3.094	very short
+wnb	3.5	very short
+wnt	4.179	moderately short
+wob	2.766	extremely short
+wog	3.685	short
+woi	4.087	moderately short
+wol	4.324	moderately short
+wor	6.045	extremely long
+wps	5.244	long
+wra	4.564	moderately long
+wrb	4.949	moderately long
+wrd	5.974	very long
+wrg	4.957	moderately long
+wrk	5.138	long
+wrl	5.385	long
+wrm	3.595	short
+wrn	5.543	very long
+wrp	4.182	moderately short
+wrs	4.235	moderately short
+wru	6.017	extremely long
+wrw	5.071	long
+wry	3.8	short
+wsk	4.486	moderately short
+wtm	3.953	short
+wuc	3.359	very short
+wur	4.806	moderately long
+wwa	4.138	moderately short
+wwy	4.443	moderately short
+wya	4.231	moderately short
+wyn	4.382	moderately short
+xam	4.053	moderately short
+xar	3.275	very short
+xas	3.475	very short
+xav	4.795	moderately long
+xbi	4.697	moderately long
+xer	4.892	moderately long
+xho	3.603	short
+xns	3.016	very short
+xok	4.2	moderately short
+xoo	3.578	short
+xun	3.423	very short
+yag	4.936	moderately long
+yah	4.487	moderately short
+yak	3.627	short
+yal	3.777	short
+yam	4.054	moderately short
+yan	4.743	moderately long
+yao	4.092	moderately short
+yap	3.789	short
+yaq	4.35	moderately short
+yar	3.861	short
+yaw	4.385	moderately short
+yay	2.855	extremely short
+yaz	3.608	short
+yba	2.972	extremely short
+ybi	4.359	moderately short
+ych	5	moderately long
+ycn	5.594	very long
+yct	3.462	very short
+ydd	3.956	short
+yei	5.046	long
+yel	4.138	moderately short
+yem	2.822	extremely short
+yes	3.135	very short
+yey	3.194	very short
+ygd	2.917	extremely short
+ygn	3.91	short
+yi	2.756	extremely short
+yid	4.882	moderately long
+yil	3.333	very short
+yim	4.939	moderately long
+yin	5.31	long
+yir	3.868	short
+yki	3.632	short
+ykm	2.987	extremely short
+ykn	4.382	moderately short
+yko	4.506	moderately long
+ykp	4.494	moderately short
+ykt	3.763	short
+yli	4.459	moderately short
+ylm	3.947	short
+ylr	5.324	long
+ymd	4.109	moderately short
+ymi	5	moderately long
+yms	3.962	short
+ynk	5.282	long
+ynm	4.575	moderately long
+yns	3.046	very short
+yny	5.888	very long
+yor	3.208	very short
+yqy	4.603	moderately long
+yrc	4.425	moderately short
+yrr	3.556	short
+yrt	4.385	moderately short
+ysi	5.515	very long
+ysl	5.525	very long
+ytu	4.981	moderately long
+yuc	3.294	very short
+yug	3.324	very short
+yuk	5.827	very long
+yur	4.4	moderately short
+ywr	5.194	long
+zag	3.325	very short
+zai	3.859	short
+zaj	4.243	moderately short
+zam	3.218	very short
+zan	3.594	short
+zap	3.808	short
+zaq	3.013	very short
+zar	3.962	short
+zay	4.033	moderately short
+zaz	4.388	moderately short
+zch	3.987	short
+zen	4.956	moderately long
+zfl	3.628	short
+zim	4.357	moderately short
+zno	3.595	short
+zpr	6.242	extremely long
+zqc	3.795	short
+zqr	3.85	short
+zqs	3.727	short
+zsq	4.287	moderately short
+zte	2.938	extremely short
+zun	4.382	moderately short
+zya	3.947	short
+zzo	3.75	short
