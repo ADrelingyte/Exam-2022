@@ -5,14 +5,14 @@ Greek 4.62 Fusional
 English 4.19 Analytic
 Basque 5.3  Agglutinative
 French 4.55 Fusional
-Hebrew 6.62 Synthetic 
+Hebrew 6.62 Agglutinative 
 Hindi 3.53  Fusional
 Indonesian 5.92 Agglutinative
 Georgian 5.99 Agglutinative
 Persian 3.99  Synthetic
 Spanish 4.62  Fusional
 Thai 3.25  Analytic
-Turkish 6.74 Synthetic
+Turkish 6.74 Agglutinative
 Vietnamese 3.24 Analytic
 Portuguese 4.634 Fusional
 Unknown 5.67 Unknown
