@@ -9,7 +9,7 @@ Hebrew 6.62 Agglutinative
 Hindi 3.53  Fusional
 Indonesian 5.92 Agglutinative
 Georgian 5.99 Agglutinative
-Persian 3.99  Synthetic
+Persian 3.99  Agglutinative
 Spanish 4.62  Fusional
 Thai 3.25  Analytic
 Turkish 6.74 Agglutinative
